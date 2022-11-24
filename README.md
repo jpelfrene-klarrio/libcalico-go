@@ -4,6 +4,10 @@
 ![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](http://godoc.org/github.com/projectcalico/libcalico-go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/projectcalico/libcalico-go)](https://goreportcard.com/report/github.com/projectcalico/libcalico-go)
 
+# Klarrio fork of libcalico-go
+
+We modernized the etcd dependencies of libcalico-go of summer 2021. This gets tenantmanager unstuck, while not having to deal with the new calico repo structure and api splitoff.
+
 # libcalico-go
 <img src="http://docs.projectcalico.org/images/felix.png" width="100" height="100">
 
